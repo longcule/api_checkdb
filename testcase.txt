@@ -1,0 +1,16 @@
+## test case:
+True:
+[
+  {
+    "role": "assistant",
+    "content": "Rút gọn đặc trưng là gì?"
+  }
+]
+
+False:
+[
+  {
+    "role": "assistant",
+    "content": "Nghỉ bi a 10 ngày"
+  }
+]
