@@ -10,7 +10,7 @@ This is an example FastAPI application that demonstrates how to create an API en
 
 2. Navigate to the project directory:
    ```shell
-   cd repository/
+   cd api_checkdb/
 
 3. Install the required dependencies using pip:
    ```shell
